@@ -1,5 +1,4 @@
 #include<iostream>
-
 using namespace std;
 void printO(int N,int M)
 {
@@ -20,6 +19,6 @@ void printO(int N,int M)
 }
 int main()
 {
-	printO(0,3);
+	printO(3,5);
 	return 0;
 }
